@@ -1,6 +1,6 @@
 # AI Infra Provisioning Guard 
 
-## link: ai-infra-guard-ndlt5.streamlit.app
+## link: https://ai-infra-guard-ndlt5.streamlit.app/
 
 ## Project Vision
 The **AI Infra Provisioning Guard** is an enterprise-grade triage engine designed specifically for the Almaty SME market. By acting as a "Strict Security Admin," the application intercepts infrastructure provisioning requests, analyzes them through a robust Pydantic-powered AI logic stream, and strictly enforces the Principle of Least Privilege. It transforms potentially ambiguous and dangerous natural-language resource requests into secure, syntactically correct Cisco IOS and PostgreSQL parameters, defending your enterprise from both user error and internal AI hallucination.
